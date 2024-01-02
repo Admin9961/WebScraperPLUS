@@ -1,0 +1,4 @@
+aiohttp
+requests-html
+beautifulsoup4
+httpx
