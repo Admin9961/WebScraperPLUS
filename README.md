@@ -39,3 +39,4 @@ Almost vulnerable sites:
     https://www.instagram.com/This_Profile_is_a_Guinea_Pig (the login page was vulnerable, however, the bot does not support an authentication method, causing rendering and downloading errors after authentication is completed. Still, in my opinion, adding auth support solves the problem)
 
 The script has been successfully tested on Windows; adapting it for Unix may be required. For security reasons, I decided not to compile it with Pyinstaller or Py2exe, providing the code in plain text and 100% commented.
+*EDIT*: I changed idea and I have released the Pyinstaller version of the program, becouse dependancies updates or deprecations can pose a threat, forcing me to update my code again. Pyinstaller looks "suspicious", but it's the best solution to prevent issues related to modules deprecations.
