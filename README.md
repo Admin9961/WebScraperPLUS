@@ -1,4 +1,4 @@
-# WebScraperPLUS
+# WebScraperPLUS (get Python 3.12, install requirements.txt and then type python parser.py in your terminal, the script was tested on Windows only. May require changes to work on Unix)
 Yesterday, after a sleepless night, I failed (accepting defeat) the Instagram bug bounty. The failure was caused by the obligation to manually test the app, not even allowing a passive crawler, resulting in the banning of the guinea pig.
 
 How can one recover from such a miserable defeat?
