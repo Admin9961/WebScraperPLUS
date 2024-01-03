@@ -4,7 +4,7 @@ repository "WebscraperPLUS", che sono forniti in plain text con tanto di comment
 da alcuni prodotti antivirus che flaggano erroneamente gli artefatti generati da Pyinstaller come malware, che in definitiva sono rilevamenti
 causati dalle signature della versione di Pyinstaller in uso sul mio dispositivo locale (Windows 10 Home build 1904).
 
-In caso si sospetti della presenza di malware in questi .EXE esistono due opzioni:
+In caso si sospetti della presenza di malware in questi .EXE esistono tre opzioni:
 - Testare gli .EXE in una sandbox, come VMware, o Virtual Box;
 - Non testarli proprio e lasciarli perdere;
 - Eseguire la variante in .py, scaricando l'interpreter di Python 3.12 con i relativi importi indicati in 'requirements.txt', eseguendo il comando terminal 'pip install -r requirements.txt'
